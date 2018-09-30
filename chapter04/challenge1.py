@@ -9,7 +9,7 @@ finish = None
 
 print("\n\nHello welcome to Challenge 1!\n")
 
-print("Please enter a value between 1 to 10.")
+print("Please enter a value.")
 print("Press the enter key at 'Begin' to exit.")
 
 while start != "":
