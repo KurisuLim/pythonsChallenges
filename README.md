@@ -1,5 +1,5 @@
 ## Python Challenges
-* This challenges are from the book Python Progamming.
+* These challenges are from the book Python Progamming.
 * Third Edition by: Michael Dawson
 
 ## Chapter 1
